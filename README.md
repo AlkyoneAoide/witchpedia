@@ -1,1 +1,1 @@
-# witchipedia
+# witchpedia
