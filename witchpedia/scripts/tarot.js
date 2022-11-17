@@ -1,6 +1,6 @@
 const spreadList = document.getElementById("sidebar-left")
 
-fetch('/assets/tarot/spreads.json')
+fetch('/witchpedia/assets/tarot/spreads.json')
     .then(response => response.json())
     .then(data => {
         for (const c in data) {
